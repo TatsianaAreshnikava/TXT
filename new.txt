@@ -1,0 +1,6 @@
+surname: Areshnikava,
+name:Tatsiana,
+age:38,
+pets_quantity:0,
+salary:1000
+
